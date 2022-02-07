@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/Users/user/Documents/ros_example/devel -DCMAKE_INSTALL_PREFIX=/Users/user/Documents/ros_example/install -G Unix Makefiles
